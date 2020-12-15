@@ -1,0 +1,13 @@
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\bin\Debug\netcoreapp3.1\Testas.exe
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\bin\Debug\netcoreapp3.1\Testas.deps.json
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\bin\Debug\netcoreapp3.1\Testas.runtimeconfig.json
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\bin\Debug\netcoreapp3.1\Testas.runtimeconfig.dev.json
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\bin\Debug\netcoreapp3.1\Testas.dll
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\bin\Debug\netcoreapp3.1\Testas.pdb
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\obj\Debug\netcoreapp3.1\Testas.csprojAssemblyReference.cache
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\obj\Debug\netcoreapp3.1\Testas.AssemblyInfoInputs.cache
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\obj\Debug\netcoreapp3.1\Testas.AssemblyInfo.cs
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\obj\Debug\netcoreapp3.1\Testas.csproj.CoreCompileInputs.cache
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\obj\Debug\netcoreapp3.1\Testas.dll
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\obj\Debug\netcoreapp3.1\Testas.pdb
+C:\Users\Kasparas\source\repos\Testas\Testas\Testas\obj\Debug\netcoreapp3.1\Testas.genruntimeconfig.cache
